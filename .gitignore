@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Office temp/lock files
+~$*
+~*.tmp
+
+# Editors / IDEs
+.vs/
+.vscode/
+.idea/
+.cursor/
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+*.swp
